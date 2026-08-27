@@ -1,0 +1,35 @@
+h1 {
+    color: purple;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.type {
+    color: blue;
+}
+
+#gadgets {
+    color: green;
+}
+
+body {
+    background-color: lightgray;
+    font-family: Arial;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+p {
+    font-style: italic;
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+}

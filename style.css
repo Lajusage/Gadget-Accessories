@@ -1,0 +1,29 @@
+body {
+    background-color: pink;
+    font-family: arial;
+}
+
+h1 {
+    color: #355a45;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+h2{
+    color: #f9e99a;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+P{
+    color: #25252b;
+    line-height: 1.6;
+    font-style: normal;
+}
+
+a{
+    text-decoration: none;
+    color: #a9d9f5;
+}

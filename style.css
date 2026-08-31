@@ -25,5 +25,6 @@ a{
 }
 
 article {
-    width: 50px;
+    width: 500px;
+    padding: 20px;
 }

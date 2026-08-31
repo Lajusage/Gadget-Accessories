@@ -29,4 +29,5 @@ article {
     padding: 20px;
     border: 5px solid black;
     margin: 30px;
+    box-sizing: border-box;
 }
